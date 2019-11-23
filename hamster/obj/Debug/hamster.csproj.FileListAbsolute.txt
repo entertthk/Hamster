@@ -1,0 +1,6 @@
+C:\Users\Laptop\Desktop\hamster\hamster\bin\Debug\hamster.exe.config
+C:\Users\Laptop\Desktop\hamster\hamster\bin\Debug\hamster.exe
+C:\Users\Laptop\Desktop\hamster\hamster\bin\Debug\hamster.pdb
+C:\Users\Laptop\Desktop\hamster\hamster\obj\Debug\hamster.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\hamster\hamster\obj\Debug\hamster.exe
+C:\Users\Laptop\Desktop\hamster\hamster\obj\Debug\hamster.pdb
